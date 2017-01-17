@@ -14,4 +14,9 @@ def newmethod(request):
   x= 125;
   x= 125;
   x= 125;
+  x= 125;
+  x= 125;
+  x= 125;
+  
+  
   
